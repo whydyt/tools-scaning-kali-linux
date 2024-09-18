@@ -1,0 +1,1 @@
+analisa perbandingan dan kesimpulan
