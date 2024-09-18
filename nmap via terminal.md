@@ -8,5 +8,4 @@
 
 <img width="268" alt="nmap kominfo1" src="https://github.com/user-attachments/assets/398dea91-0ea6-490d-98a1-6ee44500d8e3">
 
-analisa
 
